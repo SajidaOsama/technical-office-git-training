@@ -5,3 +5,5 @@
 3. `git remote` vs. `git push`: `git remote` sets up and links the local repository to the remote GitHub URL, while `git push` actually uploads the local committed changes to GitHub.
 4. `git commit`: Takes a permanent snapshot of all files currently in the staging area and saves them in the local repository history.
 5. `git status`: A command used to check the current state of the working directory and staging area to see which files are modified or untracked.
+6. Working Directory: The local folder where project files are created and edited before staging.
+7. `git diff`: A command used to review line-by-line differences between modified and saved files.
