@@ -1,4 +1,4 @@
-# Git and GitHub Learning Notes so far :
+# Git and GitHub Learning Notes so far:
 
 1. Git vs. GitHub Concept: Git is the command-line tool installed locally on my machine to manage version control, track changes, and interact with remote repositories on GitHub.
 2. Staging Area: An intermediate space where changes are gathered and reviewed using `git add` before permanently committing them to the local repository.
