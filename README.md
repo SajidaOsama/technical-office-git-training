@@ -1,10 +1,13 @@
-# Git & GitHub Practical Training
+# Project Title
 
-This repository is created for practicing the core workflow of Git and GitHub in software development.
+## Repository Purpose
+This repository is created for Git and GitHub practical training.
 
-## Training Tasks
-- Task 1: Create and Configure a Repository
-- Task 2: Track Changes and Understand Commit History
-- Task 3: Branches and Merging
-- Task 4: Handle a Merge Conflict
-- Task 5: Simulate a Team Contribution with a Pull Request
+## Setup
+Clone the repository and open it in your local terminal.
+
+## Workflow
+We follow standard Git branching, merging, and resolving conflicts manually.
+
+## Lessons Learned
+Learned how to manage branches, merge conflicts, and collaborate using Pull Requests.
